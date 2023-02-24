@@ -1,6 +1,7 @@
 # TFM_cyberbullying_prediccion
-Contiene el script en formato "*.ipynb" y las bases de datos preparadas. Si bien esta la base original y su preparación, el script contiene todos los comandos en caso
-de solo proporcionar la base original.
+Contiene el script en formato "*.ipynb" y las bases de datos preparadas. Si bien esta la base original (cyberbullying_tweets.csv) y su procesamiento final (data_lista.xlsx), el script contiene todos los comandos en caso
+de solo proporcionar la base original, aunque se requeriría de volver a ejecutar las primeras celdas del script hasta cumplir con conseguir el archivo final. 
+Finalmente, se incluyen los resultados y calibración.
 
 Créditos de la base de datos:
 Wang, K.; Fu, K. & Lu, C. “SOSNet: A Graph Convolutional Network Approach to Fine-Grained Cyberbullying Detection,” 
